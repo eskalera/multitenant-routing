@@ -1,0 +1,15 @@
+{
+  "routes": [
+    {
+      "destination": "product",
+      "viewName": "Grid1View"
+    },
+    {
+      "destination": "cart",
+      "viewName": "Cart1View",
+      "params": {
+        "productId": "XYZ"
+      }
+    }
+  ]
+}
